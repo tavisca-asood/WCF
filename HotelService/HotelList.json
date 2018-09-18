@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 1,
+        "Name": "Novotel",
+        "Address": "Pune",
+        "Rating": 5
+    },
+    {
+        "ID": 2,
+        "Name": "Hyatt",
+        "Address": "Pune",
+        "Rating": 4
+    },
+    {
+        "ID": 3,
+        "Name": "Red Fox",
+        "Address": "Chandigarh",
+        "Rating": 3
+    }
+]
